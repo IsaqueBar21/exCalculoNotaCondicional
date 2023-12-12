@@ -1,0 +1,6 @@
+C:\Users\3674532\Documents\CURSOS\C#\projetos\calculoMediaCondicional\calculoMediaCondicional\bin\Debug\calculoMediaCondicional.exe.config
+C:\Users\3674532\Documents\CURSOS\C#\projetos\calculoMediaCondicional\calculoMediaCondicional\bin\Debug\calculoMediaCondicional.exe
+C:\Users\3674532\Documents\CURSOS\C#\projetos\calculoMediaCondicional\calculoMediaCondicional\bin\Debug\calculoMediaCondicional.pdb
+C:\Users\3674532\Documents\CURSOS\C#\projetos\calculoMediaCondicional\calculoMediaCondicional\obj\Debug\calculoNotaCondicional.csproj.CoreCompileInputs.cache
+C:\Users\3674532\Documents\CURSOS\C#\projetos\calculoMediaCondicional\calculoMediaCondicional\obj\Debug\calculoMediaCondicional.exe
+C:\Users\3674532\Documents\CURSOS\C#\projetos\calculoMediaCondicional\calculoMediaCondicional\obj\Debug\calculoMediaCondicional.pdb
